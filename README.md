@@ -8,6 +8,7 @@
   - train.csv
   - test.csv        
   - test_sub.csv  (same test.csv)
+  - solution.csv
   - main.ipynb
 
 ## INTRODUCTION
