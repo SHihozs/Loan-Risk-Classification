@@ -12,7 +12,7 @@
   - main.ipynb
 
 ## INTRODUCTION
-  - The challenge is classify risk status of customer (level 1-5)
+  - The challenge is to classify risk status of the customer (level 1-5)
   
 ## Attributes
   - Gender : Male/Female
@@ -27,4 +27,4 @@
   - Risk Status: 1/2/3/4/5 (1 = lowest risk, 5 = highest risk)
 
 ## Note
-  - In main.iypb includes many model for prediction but I recommended the random forest model.
+  - In main. type includes many models for prediction but I recommended the random forest model.
